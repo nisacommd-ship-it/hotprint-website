@@ -16,3 +16,4 @@ __pycache__/
 .pytest_cache/
 yarn-error.log
 .deploy/
+hotprint_clean.tar.gz
